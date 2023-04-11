@@ -1,0 +1,1089 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\animations.css",
+      "PackagePath": "staticwebassets\\Content\\animations.css"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\bundle.css",
+      "PackagePath": "staticwebassets\\Content\\bundle.css"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\bundle.min.css",
+      "PackagePath": "staticwebassets\\Content\\bundle.min.css"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\easyzoom.css",
+      "PackagePath": "staticwebassets\\Content\\easyzoom.css"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Content\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\accessories\\27b791131728473b8b9b5ca05dc8b672.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\accessories\\27b791131728473b8b9b5ca05dc8b672.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\accessories\\3488d059a9a742c89c9b91133048d2e2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\accessories\\3488d059a9a742c89c9b91133048d2e2.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\accessories\\37fd2a7e5cf7497598ea05f74b17ec12.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\accessories\\37fd2a7e5cf7497598ea05f74b17ec12.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\accessories\\43930e46eab240e99a8162ecb9561770.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\accessories\\43930e46eab240e99a8162ecb9561770.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\accessories\\5f0566fb881e4ec3b4946b7f37e7fc02.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\accessories\\5f0566fb881e4ec3b4946b7f37e7fc02.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\accessories\\80c4ab3972ed47778623adf31189da98.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\accessories\\80c4ab3972ed47778623adf31189da98.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\accessories\\adaa8571d25848988b7deb2ab350aede.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\accessories\\adaa8571d25848988b7deb2ab350aede.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\accessories\\b489e8e6cb5c42f5a7da01568bb374ab.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\accessories\\b489e8e6cb5c42f5a7da01568bb374ab.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\accessories\\bedfcd1d131640dbb1d8f26fecee0830.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\accessories\\bedfcd1d131640dbb1d8f26fecee0830.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\accessories\\e2fba41965cc4c4ea20d777027ba23e7.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\accessories\\e2fba41965cc4c4ea20d777027ba23e7.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\accessories\\f840dbe92feb4b56aa9eeb23444c231e.JPG",
+      "PackagePath": "staticwebassets\\Content\\images\\accessories\\f840dbe92feb4b56aa9eeb23444c231e.JPG"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\accessories\\fcc62a3a61c448d9b65741e8412427d6.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\accessories\\fcc62a3a61c448d9b65741e8412427d6.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\article\\1495ce82bc584a1fab6161df83bc934e.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\article\\1495ce82bc584a1fab6161df83bc934e.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\article\\1a5933dd4f8d40dc819de8a23f493695.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\article\\1a5933dd4f8d40dc819de8a23f493695.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\article\\7d6134c19e93450492319380572cd4c0.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\article\\7d6134c19e93450492319380572cd4c0.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\article\\840446bb48d14172b1cb7acf1b7a3837.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\article\\840446bb48d14172b1cb7acf1b7a3837.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\article\\bc06f24d5dff40b9b2a87d472d087640.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\article\\bc06f24d5dff40b9b2a87d472d087640.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\article\\e6a28f99167742048c133a85c3177f16.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\article\\e6a28f99167742048c133a85c3177f16.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\article\\ecff1948931d416e8d26bcf14888e521.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\article\\ecff1948931d416e8d26bcf14888e521.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\article\\f44fedd128e44676b048c0f3e57e3e29.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\article\\f44fedd128e44676b048c0f3e57e3e29.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\background\\can-am-off-road-viet-nam.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\background\\can-am-off-road-viet-nam.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\background\\can-am-spyder-viet-nam.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\background\\can-am-spyder-viet-nam.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\background\\contact.jpeg",
+      "PackagePath": "staticwebassets\\Content\\images\\background\\contact.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\background\\sea-doo-viet-nam.jpeg",
+      "PackagePath": "staticwebassets\\Content\\images\\background\\sea-doo-viet-nam.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\background\\sea-doo-viet-nam.mp4",
+      "PackagePath": "staticwebassets\\Content\\images\\background\\sea-doo-viet-nam.mp4"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\background\\sea-doo-viet-nam.webm",
+      "PackagePath": "staticwebassets\\Content\\images\\background\\sea-doo-viet-nam.webm"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\background\\video.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\background\\video.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\category-tab-home\\BRP-only.png",
+      "PackagePath": "staticwebassets\\Content\\images\\category-tab-home\\BRP-only.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\category-tab-home\\can-am-only.png",
+      "PackagePath": "staticwebassets\\Content\\images\\category-tab-home\\can-am-only.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\category-tab-home\\sea-doo-only.png",
+      "PackagePath": "staticwebassets\\Content\\images\\category-tab-home\\sea-doo-only.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\full-page.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\full-page.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\language\\English.png",
+      "PackagePath": "staticwebassets\\Content\\images\\language\\English.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\language\\Vietnamese.png",
+      "PackagePath": "staticwebassets\\Content\\images\\language\\Vietnamese.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\logo\\can-am-off-road.png",
+      "PackagePath": "staticwebassets\\Content\\images\\logo\\can-am-off-road.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\logo\\logo-footer.png",
+      "PackagePath": "staticwebassets\\Content\\images\\logo\\logo-footer.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\Content\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\logo\\phu-kien.png",
+      "PackagePath": "staticwebassets\\Content\\images\\logo\\phu-kien.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\logo\\sea-doo.png",
+      "PackagePath": "staticwebassets\\Content\\images\\logo\\sea-doo.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\1bc02f804f2c49cca57803cc880a7a28.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\1bc02f804f2c49cca57803cc880a7a28.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\64689c8518d042e2b0995d2552fa7e32.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\64689c8518d042e2b0995d2552fa7e32.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\6b424c1fa016455daa0c54249210141b.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\6b424c1fa016455daa0c54249210141b.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\7396057094114b47851a6c68bfc6ad7f.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\7396057094114b47851a6c68bfc6ad7f.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\92ed1584fe9e4c4599a6d25d6d37dd1a.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\92ed1584fe9e4c4599a6d25d6d37dd1a.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\930766a70608464d8eccff03060fd301.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\930766a70608464d8eccff03060fd301.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\999009b826984e2b92340ea9aa306604.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\999009b826984e2b92340ea9aa306604.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\b7dff4967d4342d6a4eafd1bddb5595b.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\b7dff4967d4342d6a4eafd1bddb5595b.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\c1c9a7bac47a49c7acb5ef0388d7d2c2.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\c1c9a7bac47a49c7acb5ef0388d7d2c2.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\c2eda8dc58ea44f8ab975567222a61d8.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\c2eda8dc58ea44f8ab975567222a61d8.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\c6112330a7dc4c9f88ccba03f006b016.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\c6112330a7dc4c9f88ccba03f006b016.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\da2004af1f604a2cb9808b950d9dd72c.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\da2004af1f604a2cb9808b950d9dd72c.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\e0661ed96a884e1db11900d6d1e96b43.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\e0661ed96a884e1db11900d6d1e96b43.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\e20e632371d14e418eec54f118f24ab2.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\e20e632371d14e418eec54f118f24ab2.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\offroad\\f5ac90bfd592493097fdd68af8b5b115.png",
+      "PackagePath": "staticwebassets\\Content\\images\\offroad\\f5ac90bfd592493097fdd68af8b5b115.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\product-category-tab\\accessories.png",
+      "PackagePath": "staticwebassets\\Content\\images\\product-category-tab\\accessories.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\product-category-tab\\offroad.png",
+      "PackagePath": "staticwebassets\\Content\\images\\product-category-tab\\offroad.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\product-category-tab\\seadoo.png",
+      "PackagePath": "staticwebassets\\Content\\images\\product-category-tab\\seadoo.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\product-category-tab\\spyder.png",
+      "PackagePath": "staticwebassets\\Content\\images\\product-category-tab\\spyder.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\048051443d15406a9cf2f1f836f217f8.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\048051443d15406a9cf2f1f836f217f8.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\21609838963a4481b502e96907458e15.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\21609838963a4481b502e96907458e15.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\237e69920a3541208ce09ca54988a654.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\237e69920a3541208ce09ca54988a654.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\24cb263a639e40ab87ccdc0aad2e2b1f.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\24cb263a639e40ab87ccdc0aad2e2b1f.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\31abd3c65fa1423a98d68a30445ddf42.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\31abd3c65fa1423a98d68a30445ddf42.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\4bb436f4c46d439aa15ffab0661066f2.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\4bb436f4c46d439aa15ffab0661066f2.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\52038fd00046432da40017cbfc452034.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\52038fd00046432da40017cbfc452034.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\6217237f78944f25b57bfec95971a3b0.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\6217237f78944f25b57bfec95971a3b0.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\66e629afb64a4c83b7e4772fc6114a16.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\66e629afb64a4c83b7e4772fc6114a16.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\8569fb3d51754eae9f8e0480b9c9285c.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\8569fb3d51754eae9f8e0480b9c9285c.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\bc47ef3aad1e4da385de18ea5a172bce.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\bc47ef3aad1e4da385de18ea5a172bce.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\c0bb6d96865a4bcb89f077f943c3590a.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\c0bb6d96865a4bcb89f077f943c3590a.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\ccd6a70b61a6416a90cec008135f772e.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\ccd6a70b61a6416a90cec008135f772e.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\fdf7975e996646a0932f175f8e23ad25.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\fdf7975e996646a0932f175f8e23ad25.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\seadoo\\x6e629afb64axc83b7e4772fc6114a16.png",
+      "PackagePath": "staticwebassets\\Content\\images\\seadoo\\x6e629afb64axc83b7e4772fc6114a16.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\service\\BaoTri.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\service\\BaoTri.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\service\\CanAm.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\service\\CanAm.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\service\\PhuKien.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\service\\PhuKien.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\service\\SeaDoo.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\service\\SeaDoo.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\05ab201ed2dd4e4c9d4c85fb76390f16.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\05ab201ed2dd4e4c9d4c85fb76390f16.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\19f2f3969d7f4c05a71fbcc0964757be.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\19f2f3969d7f4c05a71fbcc0964757be.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\1ea1331878ce4f138b685d9f761d7f84.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\1ea1331878ce4f138b685d9f761d7f84.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\21fd06121af4423da2878873b802ab3f.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\21fd06121af4423da2878873b802ab3f.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\37455b74dbe6410a999098948a3cc942.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\37455b74dbe6410a999098948a3cc942.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\45c4f9525511443682f4d1bf6b2cb7ec.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\45c4f9525511443682f4d1bf6b2cb7ec.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\45cc94afe66d4e6298ec8217d1144e2a.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\45cc94afe66d4e6298ec8217d1144e2a.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\699c68fa99274825ac4b1ec12fc60b3c.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\699c68fa99274825ac4b1ec12fc60b3c.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\6cdc266a73b045758d747167c32dcb75.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\6cdc266a73b045758d747167c32dcb75.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\7fbbd00e780e41f484ab3805d61cd209.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\7fbbd00e780e41f484ab3805d61cd209.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\834b455603f647c595ce32f325e0da5a.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\834b455603f647c595ce32f325e0da5a.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\8d6cba303e1b4823b45f361574cb461a.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\8d6cba303e1b4823b45f361574cb461a.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\ae7bc79226e0455e8593a12c61983f20.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\ae7bc79226e0455e8593a12c61983f20.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\b43b94a04eeb486ead21b5fac18448a7.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\b43b94a04eeb486ead21b5fac18448a7.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\images\\spider\\e183b878f0a6489996edf186be5a385c.png",
+      "PackagePath": "staticwebassets\\Content\\images\\spider\\e183b878f0a6489996edf186be5a385c.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\Content\\jquery.fancybox.css"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\jquery.smartmenus.bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Content\\jquery.smartmenus.bootstrap-4.css"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\style.css",
+      "PackagePath": "staticwebassets\\Content\\style.css"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Content\\swiper.css",
+      "PackagePath": "staticwebassets\\Content\\swiper.css"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\0e5fa3bc842044bb97273c4ab7b42fd9.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\0e5fa3bc842044bb97273c4ab7b42fd9.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\11134ac2e9d1442ebc46994f17994059.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\11134ac2e9d1442ebc46994f17994059.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\1495ce82bc584a1fab6161df83bc934e.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\1495ce82bc584a1fab6161df83bc934e.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\1a5933dd4f8d40dc819de8a23f493695.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\1a5933dd4f8d40dc819de8a23f493695.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\1da3cbc50975434690bb791feea50a58.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\1da3cbc50975434690bb791feea50a58.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\2af9e28e01154697af32063e7f6afa9f.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\2af9e28e01154697af32063e7f6afa9f.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\2b198a2f5ab7466296f902c4a7a355f0.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\2b198a2f5ab7466296f902c4a7a355f0.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\365b314a32914284b5fef34a24b9b090.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\365b314a32914284b5fef34a24b9b090.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\404b8a8f7fac4547876a022cc49134c6.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\404b8a8f7fac4547876a022cc49134c6.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\62f3e087e59b4581a41fd7d07bad2f7c.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\62f3e087e59b4581a41fd7d07bad2f7c.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\6447696de87642b9a83908450549d9a4.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\6447696de87642b9a83908450549d9a4.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\79c78d7b6af043beb2c448e96ac60a85.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\79c78d7b6af043beb2c448e96ac60a85.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\7d6134c19e93450492319380572cd4c0.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\7d6134c19e93450492319380572cd4c0.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\98b50723828a4632a43c26183278f6ee.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\98b50723828a4632a43c26183278f6ee.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\0e5fa3bc842044bb97273c4ab7b42fd9.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\0e5fa3bc842044bb97273c4ab7b42fd9.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\11134ac2e9d1442ebc46994f17994059.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\11134ac2e9d1442ebc46994f17994059.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\1495ce82bc584a1fab6161df83bc934e.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\1495ce82bc584a1fab6161df83bc934e.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\1a5933dd4f8d40dc819de8a23f493695.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\1a5933dd4f8d40dc819de8a23f493695.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\1da3cbc50975434690bb791feea50a58.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\1da3cbc50975434690bb791feea50a58.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\2af9e28e01154697af32063e7f6afa9f.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\2af9e28e01154697af32063e7f6afa9f.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\2b198a2f5ab7466296f902c4a7a355f0.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\2b198a2f5ab7466296f902c4a7a355f0.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\32435c3365434923a5282c1d48aeb0ac-4.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\32435c3365434923a5282c1d48aeb0ac-4.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\365b314a32914284b5fef34a24b9b090.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\365b314a32914284b5fef34a24b9b090.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\404b8a8f7fac4547876a022cc49134c6.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\404b8a8f7fac4547876a022cc49134c6.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\62f3e087e59b4581a41fd7d07bad2f7c.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\62f3e087e59b4581a41fd7d07bad2f7c.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\6447696de87642b9a83908450549d9a4.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\6447696de87642b9a83908450549d9a4.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\79c78d7b6af043beb2c448e96ac60a85.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\79c78d7b6af043beb2c448e96ac60a85.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\7d6134c19e93450492319380572cd4c0.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\7d6134c19e93450492319380572cd4c0.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\98b50723828a4632a43c26183278f6ee.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\98b50723828a4632a43c26183278f6ee.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\a48279a44020490a97ac49e2adf0f9e4.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\a48279a44020490a97ac49e2adf0f9e4.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\bc06f24d5dff40b9b2a87d472d087640.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\bc06f24d5dff40b9b2a87d472d087640.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\ca3e427b89d3489c95ac5176a792e994.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\ca3e427b89d3489c95ac5176a792e994.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\cc3e7d93941c46aabe7c911db5856c71.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\cc3e7d93941c46aabe7c911db5856c71.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\d96d343cc7454a8eb860ec8126bd7fe6.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\d96d343cc7454a8eb860ec8126bd7fe6.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\e6a28f99167742048c133a85c3177f16.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\e6a28f99167742048c133a85c3177f16.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\ecff1948931d416e8d26bcf14888e521.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\ecff1948931d416e8d26bcf14888e521.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\Thumbs\\f44fedd128e44676b048c0f3e57e3e29.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\Thumbs\\f44fedd128e44676b048c0f3e57e3e29.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\a48279a44020490a97ac49e2adf0f9e4.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\a48279a44020490a97ac49e2adf0f9e4.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\bc06f24d5dff40b9b2a87d472d087640.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\bc06f24d5dff40b9b2a87d472d087640.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\ca3e427b89d3489c95ac5176a792e994.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\ca3e427b89d3489c95ac5176a792e994.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\cc3e7d93941c46aabe7c911db5856c71.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\cc3e7d93941c46aabe7c911db5856c71.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\d96d343cc7454a8eb860ec8126bd7fe6.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\d96d343cc7454a8eb860ec8126bd7fe6.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\e6a28f99167742048c133a85c3177f16.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\e6a28f99167742048c133a85c3177f16.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\ecff1948931d416e8d26bcf14888e521.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\ecff1948931d416e8d26bcf14888e521.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Article\\f44fedd128e44676b048c0f3e57e3e29.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Article\\f44fedd128e44676b048c0f3e57e3e29.jpg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\092960c704ed4cc0a54191853fe185ec.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\092960c704ed4cc0a54191853fe185ec.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\0abef731baf44b60a4cc6198ecdd380e.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\0abef731baf44b60a4cc6198ecdd380e.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\0adef20fb646498fb0b5069ace25fd3d.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\0adef20fb646498fb0b5069ace25fd3d.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\19b01b2c2a4d4661a68daaa815737b58.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\19b01b2c2a4d4661a68daaa815737b58.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\23120a55e5b6456191bf7be86f6d6a8b.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\23120a55e5b6456191bf7be86f6d6a8b.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\2affcfa11517464f85a58d5c98f2adc2.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\2affcfa11517464f85a58d5c98f2adc2.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\38fa1cd6f7014b3b97f0e7c7ff164d5e.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\38fa1cd6f7014b3b97f0e7c7ff164d5e.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\3c4db4521a6942499c485eba5136a305.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\3c4db4521a6942499c485eba5136a305.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\505b5a546cf1492da0acff6eb4bd3735.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\505b5a546cf1492da0acff6eb4bd3735.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\654eeba85d814571804467db891e3a92.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\654eeba85d814571804467db891e3a92.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\72a6e3fa77f444759649e878126088eb.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\72a6e3fa77f444759649e878126088eb.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\78c7922451cb408ab2b736b79e26c741.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\78c7922451cb408ab2b736b79e26c741.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\998cedf8665b454cb01b473b81b5464a.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\998cedf8665b454cb01b473b81b5464a.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\056ae24758ac4a96ad57e5167958f248.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\056ae24758ac4a96ad57e5167958f248.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\0cbfd05f941148b187bad126d397669f.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\0cbfd05f941148b187bad126d397669f.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\0cc91432026646a89587c41e40099a89.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\0cc91432026646a89587c41e40099a89.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\13483a8c235a42b1815e405c28e6762b.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\13483a8c235a42b1815e405c28e6762b.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\1fa0b079c33d4288985cc5e556ce22ed.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\1fa0b079c33d4288985cc5e556ce22ed.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\2157dec7565840b38ae9c2d19ad8df0e.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\2157dec7565840b38ae9c2d19ad8df0e.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\21609838963a4481b502e96907458e15.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\21609838963a4481b502e96907458e15.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\327912ed716b4ae09ae9cbf1e9f32e5c.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\327912ed716b4ae09ae9cbf1e9f32e5c.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\3c68d41ea7ff4b49bd917a7a232f38ef.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\3c68d41ea7ff4b49bd917a7a232f38ef.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\4441b0d3aafd444aa1ca44ecbe1adb60.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\4441b0d3aafd444aa1ca44ecbe1adb60.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\447ab91685b040ae985edef84f94816c.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\447ab91685b040ae985edef84f94816c.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\4bb436f4c46d439aa15ffab0661066f2.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\4bb436f4c46d439aa15ffab0661066f2.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\566048f5968b497cbe764a9d82532597.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\566048f5968b497cbe764a9d82532597.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\64e8753c3ec24d169f8af748f1103522.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\64e8753c3ec24d169f8af748f1103522.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\67610f977e1a44468799028d71efbd12.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\67610f977e1a44468799028d71efbd12.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\6e3fe009571740ba8d5c964ad1fbab6f.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\6e3fe009571740ba8d5c964ad1fbab6f.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\6fb258836fe64501b80013d8c34102ec.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\6fb258836fe64501b80013d8c34102ec.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\7289e10d8fe64e32aea8dd87b661c618.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\7289e10d8fe64e32aea8dd87b661c618.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\7df9fb11a6d64b968bd933b1f914e146.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\7df9fb11a6d64b968bd933b1f914e146.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\87a37f4df1b6454ca84eaa110381fb1a.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\87a37f4df1b6454ca84eaa110381fb1a.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\8e0a921587ae4d75bc8255c4beadf222.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\8e0a921587ae4d75bc8255c4beadf222.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\92ee90d9fa10409594464ada8fcd7685.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\92ee90d9fa10409594464ada8fcd7685.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\9d6c70b24d314eb59d2b36868a014753.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\9d6c70b24d314eb59d2b36868a014753.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\a3a6a259981c461d8f8a9de7fa0652e7.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\a3a6a259981c461d8f8a9de7fa0652e7.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\a72e1b2b56e542f0a0f9a9e385d0801f.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\a72e1b2b56e542f0a0f9a9e385d0801f.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\a8fb6213dde142f58d32985cc3d3f90d.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\a8fb6213dde142f58d32985cc3d3f90d.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\a9fb564a1d6f4ee79d5887d7f3b7a0e0.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\a9fb564a1d6f4ee79d5887d7f3b7a0e0.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\b4594168493545e8beb71f5b996390f9.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\b4594168493545e8beb71f5b996390f9.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\c5e99be11dc144778d468ff5c0ceed57.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\c5e99be11dc144778d468ff5c0ceed57.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\c9bd36ee128944f18b05ecb69184ae1c.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\c9bd36ee128944f18b05ecb69184ae1c.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\cc834a6016174492b7cac7f893e58679.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\cc834a6016174492b7cac7f893e58679.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\da2004af1f604a2cb9808b950d9dd72c.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\da2004af1f604a2cb9808b950d9dd72c.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\db898489635347289c1ed121eece6336.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\db898489635347289c1ed121eece6336.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\dca32eda1f90428f80e118119565d838.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\dca32eda1f90428f80e118119565d838.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\e04e1282a13142f58aa93a5d8948a14e.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\e04e1282a13142f58aa93a5d8948a14e.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\e2d4d384efca40bdb636fd2df564acc6.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\e2d4d384efca40bdb636fd2df564acc6.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\eb38f8269d304acda11116051e37c561.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\eb38f8269d304acda11116051e37c561.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\ecafff508bf248ea8d7f570d793a64d4.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\ecafff508bf248ea8d7f570d793a64d4.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Galleries\\f63c843246474343aab390717166504a.png",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Galleries\\f63c843246474343aab390717166504a.png"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\092960c704ed4cc0a54191853fe185ec.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\092960c704ed4cc0a54191853fe185ec.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\0abef731baf44b60a4cc6198ecdd380e.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\0abef731baf44b60a4cc6198ecdd380e.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\0adef20fb646498fb0b5069ace25fd3d.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\0adef20fb646498fb0b5069ace25fd3d.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\19b01b2c2a4d4661a68daaa815737b58.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\19b01b2c2a4d4661a68daaa815737b58.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\23120a55e5b6456191bf7be86f6d6a8b.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\23120a55e5b6456191bf7be86f6d6a8b.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\2affcfa11517464f85a58d5c98f2adc2.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\2affcfa11517464f85a58d5c98f2adc2.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\38fa1cd6f7014b3b97f0e7c7ff164d5e.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\38fa1cd6f7014b3b97f0e7c7ff164d5e.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\3c4db4521a6942499c485eba5136a305.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\3c4db4521a6942499c485eba5136a305.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\505b5a546cf1492da0acff6eb4bd3735.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\505b5a546cf1492da0acff6eb4bd3735.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\654eeba85d814571804467db891e3a92.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\654eeba85d814571804467db891e3a92.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\72a6e3fa77f444759649e878126088eb.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\72a6e3fa77f444759649e878126088eb.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\78c7922451cb408ab2b736b79e26c741.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\78c7922451cb408ab2b736b79e26c741.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\998cedf8665b454cb01b473b81b5464a.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\998cedf8665b454cb01b473b81b5464a.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\b37cf6f112c841cf999108b0a976ad90.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\b37cf6f112c841cf999108b0a976ad90.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\c193fc439aa84947bc46522adff180da.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\c193fc439aa84947bc46522adff180da.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\c712ce877afa4aee97c57189c52d5ab0.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\c712ce877afa4aee97c57189c52d5ab0.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\ce60c6f21cdf4da990df53f6c25049ab.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\ce60c6f21cdf4da990df53f6c25049ab.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\d1e1d8ce64c14a2382c68875e1e89ac1.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\d1e1d8ce64c14a2382c68875e1e89ac1.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\d1fb04fa37594a44afcf9ce98ac119d5.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\d1fb04fa37594a44afcf9ce98ac119d5.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\dbe2c27f81884d9db6819cbbd36cd17b.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\dbe2c27f81884d9db6819cbbd36cd17b.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\e68f5c7d5fcb4004a70a6e6dcf4e6220.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\e68f5c7d5fcb4004a70a6e6dcf4e6220.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\ea995c1606124d15808bf50dba2ba779.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\ea995c1606124d15808bf50dba2ba779.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\ead4e09c502446ad9e05550bca2685c1.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\ead4e09c502446ad9e05550bca2685c1.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\f21ed28bcd8b4c2cb6f7598b5b339eaf.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\f21ed28bcd8b4c2cb6f7598b5b339eaf.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\f2359bd99ef040fdbd61bbae8e59741d.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\f2359bd99ef040fdbd61bbae8e59741d.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\f88dd13c6d604753a4130fec3aa9a47c.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\f88dd13c6d604753a4130fec3aa9a47c.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\Thumbs\\ff4ae99f3dbc4eacbf385d637957d7fe.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\Thumbs\\ff4ae99f3dbc4eacbf385d637957d7fe.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\b37cf6f112c841cf999108b0a976ad90.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\b37cf6f112c841cf999108b0a976ad90.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\c193fc439aa84947bc46522adff180da.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\c193fc439aa84947bc46522adff180da.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\c712ce877afa4aee97c57189c52d5ab0.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\c712ce877afa4aee97c57189c52d5ab0.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\ce60c6f21cdf4da990df53f6c25049ab.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\ce60c6f21cdf4da990df53f6c25049ab.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\d1e1d8ce64c14a2382c68875e1e89ac1.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\d1e1d8ce64c14a2382c68875e1e89ac1.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\d1fb04fa37594a44afcf9ce98ac119d5.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\d1fb04fa37594a44afcf9ce98ac119d5.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\dbe2c27f81884d9db6819cbbd36cd17b.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\dbe2c27f81884d9db6819cbbd36cd17b.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\e68f5c7d5fcb4004a70a6e6dcf4e6220.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\e68f5c7d5fcb4004a70a6e6dcf4e6220.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\ea995c1606124d15808bf50dba2ba779.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\ea995c1606124d15808bf50dba2ba779.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\ead4e09c502446ad9e05550bca2685c1.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\ead4e09c502446ad9e05550bca2685c1.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\f21ed28bcd8b4c2cb6f7598b5b339eaf.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\f21ed28bcd8b4c2cb6f7598b5b339eaf.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\f2359bd99ef040fdbd61bbae8e59741d.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\f2359bd99ef040fdbd61bbae8e59741d.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\f88dd13c6d604753a4130fec3aa9a47c.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\f88dd13c6d604753a4130fec3aa9a47c.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\FileUploads\\Product\\ff4ae99f3dbc4eacbf385d637957d7fe.jpeg",
+      "PackagePath": "staticwebassets\\FileUploads\\Product\\ff4ae99f3dbc4eacbf385d637957d7fe.jpeg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Scripts\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Scripts\\bundle.js",
+      "PackagePath": "staticwebassets\\Scripts\\bundle.js"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Scripts\\bundle.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\bundle.min.js"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Scripts\\css3-animate-it.js",
+      "PackagePath": "staticwebassets\\Scripts\\css3-animate-it.js"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Scripts\\easyzoom.js",
+      "PackagePath": "staticwebassets\\Scripts\\easyzoom.js"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Scripts\\jquery-3.0.0.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.0.0.js"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Scripts\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.fancybox.js"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Scripts\\jquery.smartmenus.bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.smartmenus.bootstrap-4.js"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Scripts\\jquery.smartmenus.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.smartmenus.js"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Scripts\\mp.mansory.js",
+      "PackagePath": "staticwebassets\\Scripts\\mp.mansory.js"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Scripts\\popper.js",
+      "PackagePath": "staticwebassets\\Scripts\\popper.js"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Scripts\\script.js",
+      "PackagePath": "staticwebassets\\Scripts\\script.js"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Scripts\\swiper.js",
+      "PackagePath": "staticwebassets\\Scripts\\swiper.js"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\Scripts\\youtube-api.js",
+      "PackagePath": "staticwebassets\\Scripts\\youtube-api.js"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\article-detail.html",
+      "PackagePath": "staticwebassets\\article-detail.html"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\article.html",
+      "PackagePath": "staticwebassets\\article.html"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\demo.html",
+      "PackagePath": "staticwebassets\\demo.html"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\product-detail.html",
+      "PackagePath": "staticwebassets\\product-detail.html"
+    },
+    {
+      "Id": "E:\\c++\\TauThuyenViet\\TauThuyenViet\\wwwroot\\product.html",
+      "PackagePath": "staticwebassets\\product.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TauThuyenViet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TauThuyenViet.props",
+      "PackagePath": "build\\TauThuyenViet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TauThuyenViet.props",
+      "PackagePath": "buildMultiTargeting\\TauThuyenViet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TauThuyenViet.props",
+      "PackagePath": "buildTransitive\\TauThuyenViet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

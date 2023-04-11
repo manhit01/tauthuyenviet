@@ -1,0 +1,29 @@
+﻿@model Article
+
+<section id="article-detail">
+    <div class="container">
+        <article>
+            <h1>
+                @Model.Title
+            </h1>
+            <div class="d-lg-block d-none desc">
+                <img class="img-thumbnail" src="@Model.Avatar" />
+                <span>
+                   @Model.Description 
+                </span>
+            </div>
+            <div class="clearfix"></div>
+            <div class="content">
+               @* mã hóa trang html*@
+                @Html.Raw(Model.Content)
+            </div>
+            
+        </article>
+      
+       
+
+       <vc:vc-article-related cat-id="@Model.ArticleCategoryID" /> 
+
+        <vc:vc-product-related cat-id="0" />
+    </div>
+</section>
